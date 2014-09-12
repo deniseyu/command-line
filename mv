@@ -1,1 +1,3 @@
-The 'mv' command is like a cut-and-paste function. It can be used to move a file from one location to another on the local drive. It can also be used to rename a file if a new destination is not specified.
+The 'mv' command is like a cut-and-paste function. 
+It can be used to move a file from one location to another on the local drive. 
+It can also be used to rename a file if a new destination is not specified.
